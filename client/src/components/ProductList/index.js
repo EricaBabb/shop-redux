@@ -9,7 +9,7 @@ function ProductList({ currentCategory }) {
   const { loading, data } = useQuery(QUERY_PRODUCTS);
 
   const products = data?.products || [];
-
+//instructs which category's products should be retrieved using Apollo
   function filterProducts() {
     if (!currentCategory) {
       return products;
