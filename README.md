@@ -21,7 +21,7 @@ Clone this repo using the git clone command! Once cloned, download the necessary
 Visit https://damp-chamber-17891.herokuapp.com/ for the deployed app.
 
 The Home Menu
-![Search page](./client/src/assets/images/screenshot.png)
+![Search page](./client/src/assets/screenshot.png)
 
 ## License
 
