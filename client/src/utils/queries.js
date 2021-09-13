@@ -22,7 +22,7 @@ export const QUERY_CHECKOUT = gql`
       session
     }
   }
-`; 
+`;
 
 export const QUERY_ALL_PRODUCTS = gql`
   {

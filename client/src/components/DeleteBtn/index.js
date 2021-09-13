@@ -10,4 +10,4 @@ function DeleteBtn(props) {
   );
 }
 
-export default DeleteBtn; 
+export default DeleteBtn;

@@ -28,7 +28,7 @@ export const ADD_ORDER = gql`
       }
     }
   }
-`; 
+`;
 
 
 export const ADD_USER = gql`

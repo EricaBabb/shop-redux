@@ -56,5 +56,5 @@ function CategoryMenu() {
   );
 }
 
-export default CategoryMenu; 
+export default CategoryMenu;
 

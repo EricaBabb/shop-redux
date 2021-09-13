@@ -10,4 +10,4 @@ function Jumbotron({ children }) {
   );
 }
 
-export default Jumbotron; 
+export default Jumbotron;
