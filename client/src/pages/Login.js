@@ -16,7 +16,7 @@ function Login(props) {
       Auth.login(token);
     } catch (e) {
       console.log(e)
-    }
+    } 
   };
 
   const handleChange = event => {

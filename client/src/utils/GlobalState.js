@@ -8,7 +8,7 @@ const StoreContext = createContext();
 //Provider makes the state data that's passed into it as a prop available to all other components
 const { Provider } = StoreContext;
 //StoreContent is an empty container waiting for data to be provided to it as state
-//Consumer is our means of grabbing and using the data that the Provider holds for us
+//Consumer is our means of grabbing and using the data that the Provider holds for us 
 
 //StoreProvider is a custom provider function that will be used to manage and update our state using the reducer (useProductReducer) we created earlier as well
 

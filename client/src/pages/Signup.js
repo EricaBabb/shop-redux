@@ -83,7 +83,7 @@ function Signup(props) {
         </div>
       </form>
     </div>
-  );
+  ); 
 
 }
 

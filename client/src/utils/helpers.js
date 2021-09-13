@@ -47,7 +47,7 @@ export function idbPromise(storeName, method, object) {
           console.log('No valid method');
           break;
       }
-
+ 
       tx.oncomplete = function() {
         db.close();
       };
